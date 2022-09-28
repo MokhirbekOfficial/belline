@@ -1,0 +1,64 @@
+{
+    "messages": {
+        "something_went_wrong!": {
+            "en": "Something went wrong!",
+            "ru": "Что-то пошло не так!",
+            "uz": "Nimadir noto'g'ri bajarildi!",
+            "kr": "Нимадир нотўғри бажарилди!"
+        },
+        "get_200": {
+            "en": "Data extracted successfully!",
+            "ru": "Данные извлечены успешно!",
+            "uz": "Ma'lumotlar muvaffaqiyatli chiqarildi!",
+            "kr": "Маълумотлар муваффақиятли чиқарилди!"
+        },
+        "superadmin_created_200": {
+            "en": "Superadmin successfully created!",
+            "ru": "Суперадмин успешно создан!",
+            "uz": "Superadmin muvaffaqiyatli yaratildi!",
+            "kr": "Суперадмин мувафақиятли яратилди!"
+        },
+        "admin_created_200": {
+            "en": "Admin successfully created!",
+            "ru": "Админ успешно создан!",
+            "uz": "Admin muvaffaqiyatli yaratildi!",
+            "kr": "Aдмин муваффақиятли яратилди!"
+        },
+        "admin_logged_200": {
+            "en": "Admin successfully logged!",
+            "ru": "Админ успешно авторизовался!",
+            "uz": "Admin tizimga muvaffaqiyatli kirdi!",
+            "kr": "Aдмин тизимга муваффақиятли кирди!"
+        },
+        "admin_updated_200": {
+            "en": "Admin successfully updated!",
+            "ru": "Админ успешно обновлен!",
+            "uz": "Admin muvaffaqiyatli yangilandi!",
+            "kr": "Aдмин муваффақиятли янгиланди!"
+        },
+        "admin_delete_200": {
+            "en": "Admin successfully deleted!",
+            "ru": "Админ успешно удален!",
+            "uz": "Admin muvaffaqiyatli o'chirildi!",
+            "kr": "Aдмин муваффақиятли ўчирилди!"
+        },
+        "number_created_200": {
+            "en": "Number successfully created!",
+            "ru": "Hомер успешно создан!",
+            "uz": "Raqam muvaffaqiyatli yaratildi!",
+            "kr": "Pақам муваффақиятли яратилди!"
+        },
+        "number_updated_200": {
+            "en": "Number successfully updated!",
+            "ru": "Hомер успешно обновлен!",
+            "uz": "Raqam muvaffaqiyatli yangilandi!",
+            "kr": "Pақам муваффақиятли янгиланди!"
+        },
+        "number_delete_200": {
+            "en": "Number successfully deleted!",
+            "ru": "Hомер успешно удален!",
+            "uz": "Raqam muvaffaqiyatli o'chirildi!",
+            "kr": "Pақам муваффақиятли ўчирилди!"
+        }
+    }
+}

@@ -1,0 +1,581 @@
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-27T09:01:44.858Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2022-09-27T09:01:44.877Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3044',
+  level: 'info',
+  timestamp: '2022-09-27T09:01:44.881Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-27T09:01:50.082Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-27T10:38:19.454Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2022-09-27T10:38:19.470Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3044',
+  level: 'info',
+  timestamp: '2022-09-27T10:38:19.473Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-27T10:38:24.172Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-27T10:42:33.558Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2022-09-27T10:42:33.574Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2022-09-27T10:42:33.578Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: MongoDB Connection error: querySrv ECONNREFUSED _mongodb._tcp.belline.g3aintk.mongodb.net',
+  level: 'error',
+  timestamp: '2022-09-27T10:42:33.591Z',
+  label: 'belline',
+  metadata: {
+    errno: undefined,
+    code: 'ECONNREFUSED',
+    syscall: 'querySrv',
+    hostname: '_mongodb._tcp.belline.g3aintk.mongodb.net',
+    stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.belline.g3aintk.mongodb.net\n' +
+      '    at QueryReqWrap.onresolve [as oncomplete] (dns.js:210:19)'
+  }
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-27T10:42:49.147Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2022-09-27T10:42:49.161Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2022-09-27T10:42:49.164Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-27T10:42:57.432Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: "storage.admin.find: finished with error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/",
+  level: 'error',
+  timestamp: '2022-09-27T10:46:54.091Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-27T18:46:56.210Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2022-09-27T18:46:56.231Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2022-09-27T18:46:56.235Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-27T18:46:58.222Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.get failed to findOne',
+  level: 'warn',
+  timestamp: '2022-09-27T18:51:13.890Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.findOne: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-27T18:51:13.891Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.find: finished with error: MongoError: invalid argument to $skip stage: Expected an integer, but found NaN in: $skip: nan.0',
+  level: 'error',
+  timestamp: '2022-09-27T18:54:41.902Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-27T18:59:37.007Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2022-09-27T18:59:37.020Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2022-09-27T18:59:37.022Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-27T18:59:38.967Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-27T19:01:24.449Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2022-09-27T19:01:24.460Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2022-09-27T19:01:24.462Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-27T19:01:26.594Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-27T19:03:30.378Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2022-09-27T19:03:30.390Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2022-09-27T19:03:30.391Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-27T19:03:32.562Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.create: finished with error: MongoError: E11000 duplicate key error collection: test.numbers index: value_1 dup key: { value: "+998942222222" }',
+  level: 'error',
+  timestamp: '2022-09-27T19:03:37.194Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-27T19:11:49.221Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2022-09-27T19:11:49.237Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2022-09-27T19:11:49.240Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-27T19:11:51.381Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.find: finished with error: MongoError: $regexMatch is not allowed or the syntax is incorrect, see the Atlas documentation for more information',
+  level: 'error',
+  timestamp: '2022-09-27T19:12:02.394Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-27T19:12:27.567Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2022-09-27T19:12:27.576Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2022-09-27T19:12:27.577Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-27T19:12:29.247Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.find: finished with error: MongoError: $regexMatch is not allowed or the syntax is incorrect, see the Atlas documentation for more information',
+  level: 'error',
+  timestamp: '2022-09-27T19:12:39.889Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-27T19:14:31.932Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2022-09-27T19:14:31.944Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2022-09-27T19:14:31.946Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-27T19:14:33.911Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.find: finished with error: MongoError: $regexFind is not allowed or the syntax is incorrect, see the Atlas documentation for more information',
+  level: 'error',
+  timestamp: '2022-09-27T19:14:44.007Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-27T19:16:55.131Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2022-09-27T19:16:55.140Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2022-09-27T19:16:55.142Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-27T19:16:57.132Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-27T19:17:17.234Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2022-09-27T19:17:17.243Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2022-09-27T19:17:17.244Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-27T19:17:18.906Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-27T19:17:45.580Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2022-09-27T19:17:45.600Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2022-09-27T19:17:45.602Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-27T19:17:47.293Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-27T19:24:42.281Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2022-09-27T19:24:42.294Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2022-09-27T19:24:42.296Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-27T19:24:44.386Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.find: finished with error: MongoError: $regex has to be a string',
+  level: 'error',
+  timestamp: '2022-09-27T19:24:51.271Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-27T19:25:18.855Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2022-09-27T19:25:18.866Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2022-09-27T19:25:18.867Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-27T19:25:20.528Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.find: finished with error: MongoError: $regex has to be a string',
+  level: 'error',
+  timestamp: '2022-09-27T19:25:24.068Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-27T19:27:06.586Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2022-09-27T19:27:06.604Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2022-09-27T19:27:06.607Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-27T19:27:08.670Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-27T19:27:13.885Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2022-09-27T19:27:13.895Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2022-09-27T19:27:13.897Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-27T19:27:15.606Z',
+  label: 'belline',
+  metadata: {}
+}

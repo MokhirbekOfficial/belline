@@ -1,0 +1,77 @@
+{
+  message: 'DB: MongoDB Connection error: querySrv ECONNREFUSED _mongodb._tcp.belline.g3aintk.mongodb.net',
+  level: 'error',
+  timestamp: '2022-09-27T10:42:33.591Z',
+  label: 'belline',
+  metadata: {
+    errno: undefined,
+    code: 'ECONNREFUSED',
+    syscall: 'querySrv',
+    hostname: '_mongodb._tcp.belline.g3aintk.mongodb.net',
+    stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.belline.g3aintk.mongodb.net\n' +
+      '    at QueryReqWrap.onresolve [as oncomplete] (dns.js:210:19)'
+  }
+}
+{
+  message: "storage.admin.find: finished with error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/",
+  level: 'error',
+  timestamp: '2022-09-27T10:46:54.091Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.findOne: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-27T18:51:13.891Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.find: finished with error: MongoError: invalid argument to $skip stage: Expected an integer, but found NaN in: $skip: nan.0',
+  level: 'error',
+  timestamp: '2022-09-27T18:54:41.902Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.create: finished with error: MongoError: E11000 duplicate key error collection: test.numbers index: value_1 dup key: { value: "+998942222222" }',
+  level: 'error',
+  timestamp: '2022-09-27T19:03:37.194Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.find: finished with error: MongoError: $regexMatch is not allowed or the syntax is incorrect, see the Atlas documentation for more information',
+  level: 'error',
+  timestamp: '2022-09-27T19:12:02.394Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.find: finished with error: MongoError: $regexMatch is not allowed or the syntax is incorrect, see the Atlas documentation for more information',
+  level: 'error',
+  timestamp: '2022-09-27T19:12:39.889Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.find: finished with error: MongoError: $regexFind is not allowed or the syntax is incorrect, see the Atlas documentation for more information',
+  level: 'error',
+  timestamp: '2022-09-27T19:14:44.007Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.find: finished with error: MongoError: $regex has to be a string',
+  level: 'error',
+  timestamp: '2022-09-27T19:24:51.271Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.find: finished with error: MongoError: $regex has to be a string',
+  level: 'error',
+  timestamp: '2022-09-27T19:25:24.068Z',
+  label: 'belline',
+  metadata: {}
+}

@@ -1,0 +1,40 @@
+{
+    "error_messages": {
+        "auth_401": {
+            "en": "The current password is wrong!",
+            "ru": "Текущий пароль неверный!",
+            "uz": "Joriy parol noto'g'ri!",
+            "kr": "Жорий парол нотўғри!"
+        },
+        "auth_401.2": {
+            "en": "Login or password is incorrect!",
+            "ru": "Логин или пароль неверный!",
+            "uz": "Login yoki parol noto'g'ri!",
+            "kr": "Логин ёки парол нотўғри!"
+        },
+        "auth_403": {
+            "en": "You are not authorized for this feature!",
+            "ru": "Вы не авторизованы для этой функции!",
+            "uz": "Bu funksiya uchun sizga ruxsat berilmagan!",
+            "kr": "Бу функсия учун сизга рухсат берилмаган!"
+        },
+        "admin_404": {
+            "en": "No such admin found!",
+            "ru": "Такой админ не найден!",
+            "uz": "Bunday admin topilmadi!",
+            "kr": "Бундай админ топилмади!"
+        },
+        "old_password_401": {
+            "en": "The current password is required!",
+            "ru": "Требуется текущий пароль!",
+            "uz": "Joriy parol kiritilishi kerak!",
+            "kr": "Жорий парол киритилиши керак!"
+        },
+        "number_404": {
+            "en": "No such number found!",
+            "ru": "Такой номер не найден!",
+            "uz": "Bunday raqam topilmadi!",
+            "kr": "Бундай рақам топилмади!"
+        }
+    }
+}

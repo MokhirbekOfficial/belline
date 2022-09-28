@@ -1,0 +1,1584 @@
+{
+  message: 'POST: \x1B[32m201\x1B[39m 264ms /v1/admin/create/superadmin',
+  level: 'info',
+  timestamp: '2022-09-27T10:43:19.301Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/admin/create/superadmin',
+        headers: {
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '8f6a9c28-f15e-46f8-a390-10da2979732a',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '161'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/v1/admin/create/superadmin',
+        query: {}
+      },
+      res: { statusCode: 201 },
+      responseTime: 264
+    }
+  }
+}
+{
+  message: 'POST: \x1B[33m403\x1B[39m 2ms /v1/admin/create',
+  level: 'info',
+  timestamp: '2022-09-27T10:45:24.938Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/admin/create',
+        headers: {
+          authorization: '',
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '502aad54-b546-4714-8c8e-bd14f93638c1',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '148'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/v1/admin/create',
+        query: {}
+      },
+      res: { statusCode: 403 },
+      responseTime: 2
+    }
+  }
+}
+{
+  message: 'POST: \x1B[32m201\x1B[39m 600ms /v1/admin/create',
+  level: 'info',
+  timestamp: '2022-09-27T10:45:31.087Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/admin/create',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImQwOGVkNzhlLTE0ODEtNDY4OC04NjNlLTdlMzljNjQ5NGIxMCIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDI3NTM5OSwiZXhwIjoxNjY2ODY3Mzk5fQ.sBd7z6_AzLlJDersx4fomSrTW_Hk4As-imrw7qoJeAM',
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': 'ce2b488f-d91b-48c5-a64c-c66f63b9cd1f',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '148'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/v1/admin/create',
+        query: {}
+      },
+      res: { statusCode: 201 },
+      responseTime: 600
+    }
+  }
+}
+{
+  message: 'POST: \x1B[31m500\x1B[39m 5014ms /v1/admin/login',
+  level: 'info',
+  timestamp: '2022-09-27T10:46:54.096Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/admin/login',
+        headers: {
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '9bbc23c8-04b5-4fd5-8e67-f6a157eb9a14',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '65'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/v1/admin/login',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 5014
+    }
+  }
+}
+{
+  message: 'POST: \x1B[32m201\x1B[39m 1159ms /v1/admin/login',
+  level: 'info',
+  timestamp: '2022-09-27T10:47:26.090Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/admin/login',
+        headers: {
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': 'df295c2b-0e15-4943-9935-b8e0e9e69d67',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '65'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/v1/admin/login',
+        query: {}
+      },
+      res: { statusCode: 201 },
+      responseTime: 1159
+    }
+  }
+}
+{
+  message: 'POST: \x1B[32m201\x1B[39m 246ms /v1/admin/login',
+  level: 'info',
+  timestamp: '2022-09-27T10:47:54.303Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/admin/login',
+        headers: {
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '05887249-d152-4649-8c00-248bddb3e92b',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '56'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/v1/admin/login',
+        query: {}
+      },
+      res: { statusCode: 201 },
+      responseTime: 246
+    }
+  }
+}
+{
+  message: 'GET: \x1B[33m403\x1B[39m 0ms /v1/admin/aac8d668-42e0-4ca2-b4b5-b18d922a4bf2',
+  level: 'info',
+  timestamp: '2022-09-27T10:48:55.898Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/admin/aac8d668-42e0-4ca2-b4b5-b18d922a4bf2',
+        headers: {
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': 'cb0e05c7-cb8d-4e02-b454-08f29749a01d',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/v1/admin/aac8d668-42e0-4ca2-b4b5-b18d922a4bf2',
+        query: {}
+      },
+      res: { statusCode: 403 },
+      responseTime: 0
+    }
+  }
+}
+{
+  message: 'GET: \x1B[32m200\x1B[39m 517ms /v1/admin/aac8d668-42e0-4ca2-b4b5-b18d922a4bf2',
+  level: 'info',
+  timestamp: '2022-09-27T10:49:11.791Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/admin/aac8d668-42e0-4ca2-b4b5-b18d922a4bf2',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFhYzhkNjY4LTQyZTAtNGNhMi1iNGI1LWIxOGQ5MjJhNGJmMiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDI3NTY3NCwiZXhwIjoxNjY2ODY3Njc0fQ.Am4WbFZd_RBRYmncwzC5UDmxY4w1CqAytLKQhwnBeYw',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '6fa0ed5f-e1c4-4e64-ae1b-ace9f9b51d8c',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/v1/admin/aac8d668-42e0-4ca2-b4b5-b18d922a4bf2',
+        query: {}
+      },
+      res: { statusCode: 200 },
+      responseTime: 517
+    }
+  }
+}
+{
+  message: 'POST: \x1B[32m201\x1B[39m 568ms /v1/admin/create',
+  level: 'info',
+  timestamp: '2022-09-27T10:49:33.348Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/admin/create',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImQwOGVkNzhlLTE0ODEtNDY4OC04NjNlLTdlMzljNjQ5NGIxMCIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDI3NTM5OSwiZXhwIjoxNjY2ODY3Mzk5fQ.sBd7z6_AzLlJDersx4fomSrTW_Hk4As-imrw7qoJeAM',
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '386e8cac-a654-42aa-9484-10499f61bb73',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '148'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/v1/admin/create',
+        query: {}
+      },
+      res: { statusCode: 201 },
+      responseTime: 568
+    }
+  }
+}
+{
+  message: 'GET: \x1B[33m403\x1B[39m 338ms /v1/admin/03cfb35d-48e0-4f56-a702-2a28b915e92f',
+  level: 'info',
+  timestamp: '2022-09-27T10:49:46.557Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/admin/03cfb35d-48e0-4f56-a702-2a28b915e92f',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFhYzhkNjY4LTQyZTAtNGNhMi1iNGI1LWIxOGQ5MjJhNGJmMiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDI3NTY3NCwiZXhwIjoxNjY2ODY3Njc0fQ.Am4WbFZd_RBRYmncwzC5UDmxY4w1CqAytLKQhwnBeYw',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': 'd3a23bc0-5894-4979-a624-6a423395a49e',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/v1/admin/03cfb35d-48e0-4f56-a702-2a28b915e92f',
+        query: {}
+      },
+      res: { statusCode: 403 },
+      responseTime: 338
+    }
+  }
+}
+{
+  message: 'POST: \x1B[33m401\x1B[39m 21571ms /v1/admin/login',
+  level: 'info',
+  timestamp: '2022-09-27T10:50:42.350Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/admin/login',
+        headers: {
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '662b3425-f836-4a82-ab8f-69008da17aaf',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '61'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/v1/admin/login',
+        query: {}
+      },
+      res: { statusCode: 401 },
+      responseTime: 21571
+    }
+  }
+}
+{
+  message: 'POST: \x1B[33m401\x1B[39m 2215ms /v1/admin/login',
+  level: 'info',
+  timestamp: '2022-09-27T10:50:42.383Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/admin/login',
+        headers: {
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': 'd14af542-392c-4fdb-8b1a-4b9c8305d046',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '61'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/v1/admin/login',
+        query: {}
+      },
+      res: { statusCode: 401 },
+      responseTime: 2215
+    }
+  }
+}
+{
+  message: 'POST: \x1B[32m201\x1B[39m 248ms /v1/admin/login',
+  level: 'info',
+  timestamp: '2022-09-27T10:50:50.537Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/admin/login',
+        headers: {
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '5fdd5866-edd0-4b09-8c40-f11f9119f651',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '65'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/v1/admin/login',
+        query: {}
+      },
+      res: { statusCode: 201 },
+      responseTime: 248
+    }
+  }
+}
+{
+  message: 'GET: \x1B[32m200\x1B[39m 539ms /v1/admin/03cfb35d-48e0-4f56-a702-2a28b915e92f',
+  level: 'info',
+  timestamp: '2022-09-27T10:51:00.371Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/admin/03cfb35d-48e0-4f56-a702-2a28b915e92f',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImQwOGVkNzhlLTE0ODEtNDY4OC04NjNlLTdlMzljNjQ5NGIxMCIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDI3NTg1MCwiZXhwIjoxNjY2ODY3ODUwfQ.Xxo4l0VSq31ei1c4uMhGXFu0fqe_GR0jRJA5TSLSOLs',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '0c511540-6232-4a51-82dc-f60173efc6bc',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/v1/admin/03cfb35d-48e0-4f56-a702-2a28b915e92f',
+        query: {}
+      },
+      res: { statusCode: 200 },
+      responseTime: 539
+    }
+  }
+}
+{
+  message: 'GET: \x1B[32m200\x1B[39m 522ms /v1/admin/all',
+  level: 'info',
+  timestamp: '2022-09-27T10:51:36.369Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/admin/all',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImQwOGVkNzhlLTE0ODEtNDY4OC04NjNlLTdlMzljNjQ5NGIxMCIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDI3NTg1MCwiZXhwIjoxNjY2ODY3ODUwfQ.Xxo4l0VSq31ei1c4uMhGXFu0fqe_GR0jRJA5TSLSOLs',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '85f89304-4d5e-48e1-8911-eadc29c21b27',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/v1/admin/all',
+        query: {}
+      },
+      res: { statusCode: 200 },
+      responseTime: 522
+    }
+  }
+}
+{
+  message: 'POST: \x1B[33m404\x1B[39m 3ms /v1/admin/aac8d668-42e0-4ca2-b4b5-b18d922a4bf2',
+  level: 'info',
+  timestamp: '2022-09-27T10:53:22.585Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/admin/aac8d668-42e0-4ca2-b4b5-b18d922a4bf2',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImQwOGVkNzhlLTE0ODEtNDY4OC04NjNlLTdlMzljNjQ5NGIxMCIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDI3NTg1MCwiZXhwIjoxNjY2ODY3ODUwfQ.Xxo4l0VSq31ei1c4uMhGXFu0fqe_GR0jRJA5TSLSOLs',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '536fe2f8-508f-4942-a458-60f62802670c',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-type': 'multipart/form-data; boundary=--------------------------040310259520250314339081',
+          'content-length': '66398'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/v1/admin/aac8d668-42e0-4ca2-b4b5-b18d922a4bf2',
+        query: {}
+      },
+      res: { statusCode: 404 },
+      responseTime: 3
+    }
+  }
+}
+{
+  message: 'PATCH: \x1B[32m200\x1B[39m 1149ms /v1/admin/aac8d668-42e0-4ca2-b4b5-b18d922a4bf2',
+  level: 'info',
+  timestamp: '2022-09-27T10:53:37.630Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/admin/aac8d668-42e0-4ca2-b4b5-b18d922a4bf2',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImQwOGVkNzhlLTE0ODEtNDY4OC04NjNlLTdlMzljNjQ5NGIxMCIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDI3NTg1MCwiZXhwIjoxNjY2ODY3ODUwfQ.Xxo4l0VSq31ei1c4uMhGXFu0fqe_GR0jRJA5TSLSOLs',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '79261d26-d3cd-4713-ae32-2ac4e4229fac',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-type': 'multipart/form-data; boundary=--------------------------443691401849672571638789',
+          'content-length': '66398'
+        },
+        method: 'PATCH',
+        httpVersion: '1.1',
+        originalUrl: '/v1/admin/aac8d668-42e0-4ca2-b4b5-b18d922a4bf2',
+        query: {}
+      },
+      res: { statusCode: 200 },
+      responseTime: 1149
+    }
+  }
+}
+{
+  message: 'POST: \x1B[32m201\x1B[39m 238ms /v1/admin/login',
+  level: 'info',
+  timestamp: '2022-09-27T10:54:15.557Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/admin/login',
+        headers: {
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': 'a5151d1e-ad79-4a3c-98db-248d6ec91753',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '56'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/v1/admin/login',
+        query: {}
+      },
+      res: { statusCode: 201 },
+      responseTime: 238
+    }
+  }
+}
+{
+  message: 'PATCH: \x1B[33m401\x1B[39m 351ms /v1/admin/aac8d668-42e0-4ca2-b4b5-b18d922a4bf2',
+  level: 'info',
+  timestamp: '2022-09-27T10:54:40.760Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/admin/aac8d668-42e0-4ca2-b4b5-b18d922a4bf2',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFhYzhkNjY4LTQyZTAtNGNhMi1iNGI1LWIxOGQ5MjJhNGJmMiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDI3NjA1NSwiZXhwIjoxNjY2ODY4MDU1fQ.uBO0QD_zkj-5VcdJ1Qln8s5AwL4f48JOxfnRp9PWXbs',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '19eca76f-6b00-44b9-9434-61cfa9173a26',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-type': 'multipart/form-data; boundary=--------------------------318355197202227221156515',
+          'content-length': '66398'
+        },
+        method: 'PATCH',
+        httpVersion: '1.1',
+        originalUrl: '/v1/admin/aac8d668-42e0-4ca2-b4b5-b18d922a4bf2',
+        query: {}
+      },
+      res: { statusCode: 401 },
+      responseTime: 351
+    }
+  }
+}
+{
+  message: 'PATCH: \x1B[32m200\x1B[39m 621ms /v1/admin/aac8d668-42e0-4ca2-b4b5-b18d922a4bf2',
+  level: 'info',
+  timestamp: '2022-09-27T10:55:35.932Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/admin/aac8d668-42e0-4ca2-b4b5-b18d922a4bf2',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFhYzhkNjY4LTQyZTAtNGNhMi1iNGI1LWIxOGQ5MjJhNGJmMiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDI3NjA1NSwiZXhwIjoxNjY2ODY4MDU1fQ.uBO0QD_zkj-5VcdJ1Qln8s5AwL4f48JOxfnRp9PWXbs',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '71a14272-eba9-4bb5-924f-249f0789e17e',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-type': 'multipart/form-data; boundary=--------------------------563278866944970442710968',
+          'content-length': '66518'
+        },
+        method: 'PATCH',
+        httpVersion: '1.1',
+        originalUrl: '/v1/admin/aac8d668-42e0-4ca2-b4b5-b18d922a4bf2',
+        query: {}
+      },
+      res: { statusCode: 200 },
+      responseTime: 621
+    }
+  }
+}
+{
+  message: 'DELETE: \x1B[32m200\x1B[39m 702ms /v1/admin/aac8d668-42e0-4ca2-b4b5-b18d922a4bf2',
+  level: 'info',
+  timestamp: '2022-09-27T10:56:52.689Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/admin/aac8d668-42e0-4ca2-b4b5-b18d922a4bf2',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImQwOGVkNzhlLTE0ODEtNDY4OC04NjNlLTdlMzljNjQ5NGIxMCIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDI3NTg1MCwiZXhwIjoxNjY2ODY3ODUwfQ.Xxo4l0VSq31ei1c4uMhGXFu0fqe_GR0jRJA5TSLSOLs',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': 'a0b53122-f59c-49c5-a1f9-7214692bb8eb',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive'
+        },
+        method: 'DELETE',
+        httpVersion: '1.1',
+        originalUrl: '/v1/admin/aac8d668-42e0-4ca2-b4b5-b18d922a4bf2',
+        query: {}
+      },
+      res: { statusCode: 200 },
+      responseTime: 702
+    }
+  }
+}
+{
+  message: 'POST: \x1B[33m404\x1B[39m 187ms /v1/number/create',
+  level: 'info',
+  timestamp: '2022-09-27T18:51:13.906Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/number/create',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFhYzhkNjY4LTQyZTAtNGNhMi1iNGI1LWIxOGQ5MjJhNGJmMiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDI3NjA1NSwiZXhwIjoxNjY2ODY4MDU1fQ.uBO0QD_zkj-5VcdJ1Qln8s5AwL4f48JOxfnRp9PWXbs',
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': 'bebbb554-48ea-453b-b446-1e65603979a5',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '107'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/v1/number/create',
+        query: {}
+      },
+      res: { statusCode: 404 },
+      responseTime: 187
+    }
+  }
+}
+{
+  message: 'POST: \x1B[32m201\x1B[39m 259ms /v1/admin/login',
+  level: 'info',
+  timestamp: '2022-09-27T18:51:25.003Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/admin/login',
+        headers: {
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '5fddecc9-ab7c-4144-b9a3-706affd11aae',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '56'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/v1/admin/login',
+        query: {}
+      },
+      res: { statusCode: 201 },
+      responseTime: 259
+    }
+  }
+}
+{
+  message: 'POST: \x1B[32m201\x1B[39m 406ms /v1/number/create',
+  level: 'info',
+  timestamp: '2022-09-27T18:51:41.053Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/number/create',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAzY2ZiMzVkLTQ4ZTAtNGY1Ni1hNzAyLTJhMjhiOTE1ZTkyZiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDMwNDY4NSwiZXhwIjoxNjY2ODk2Njg1fQ.YCm0YBv6nqZhcjRMmd6mSSt2UA0N0UAXOiVAj6scwTc',
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '2f3790f7-3f25-461f-870e-0a2c84854ee7',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '107'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/v1/number/create',
+        query: {}
+      },
+      res: { statusCode: 201 },
+      responseTime: 406
+    }
+  }
+}
+{
+  message: 'GET: \x1B[33m403\x1B[39m 347ms /v1/admin/59484836-ef76-4069-bc9f-1c63520877c6',
+  level: 'info',
+  timestamp: '2022-09-27T18:52:59.797Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/admin/59484836-ef76-4069-bc9f-1c63520877c6',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAzY2ZiMzVkLTQ4ZTAtNGY1Ni1hNzAyLTJhMjhiOTE1ZTkyZiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDMwNDY4NSwiZXhwIjoxNjY2ODk2Njg1fQ.YCm0YBv6nqZhcjRMmd6mSSt2UA0N0UAXOiVAj6scwTc',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '79f38886-2c05-4c6f-84ee-a4f3f2e5a36b',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/v1/admin/59484836-ef76-4069-bc9f-1c63520877c6',
+        query: {}
+      },
+      res: { statusCode: 403 },
+      responseTime: 347
+    }
+  }
+}
+{
+  message: 'GET: \x1B[32m200\x1B[39m 347ms /v1/number/59484836-ef76-4069-bc9f-1c63520877c6',
+  level: 'info',
+  timestamp: '2022-09-27T18:53:27.014Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/number/59484836-ef76-4069-bc9f-1c63520877c6',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAzY2ZiMzVkLTQ4ZTAtNGY1Ni1hNzAyLTJhMjhiOTE1ZTkyZiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDMwNDY4NSwiZXhwIjoxNjY2ODk2Njg1fQ.YCm0YBv6nqZhcjRMmd6mSSt2UA0N0UAXOiVAj6scwTc',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '0ec04c20-4fb2-43d5-b8ab-dd77d7b00588',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/v1/number/59484836-ef76-4069-bc9f-1c63520877c6',
+        query: {}
+      },
+      res: { statusCode: 200 },
+      responseTime: 347
+    }
+  }
+}
+{
+  message: 'GET: \x1B[31m500\x1B[39m 361ms /v1/number/all',
+  level: 'info',
+  timestamp: '2022-09-27T18:54:41.915Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/number/all',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAzY2ZiMzVkLTQ4ZTAtNGY1Ni1hNzAyLTJhMjhiOTE1ZTkyZiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDMwNDY4NSwiZXhwIjoxNjY2ODk2Njg1fQ.YCm0YBv6nqZhcjRMmd6mSSt2UA0N0UAXOiVAj6scwTc',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': 'bec664cb-e23d-4601-8bde-9f040bd43e84',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/v1/number/all',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 361
+    }
+  }
+}
+{
+  message: 'GET: \x1B[32m200\x1B[39m 344ms /v1/number/all?limit=10&page=0&status=active',
+  level: 'info',
+  timestamp: '2022-09-27T18:55:30.135Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/number/all?limit=10&page=0&status=active',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAzY2ZiMzVkLTQ4ZTAtNGY1Ni1hNzAyLTJhMjhiOTE1ZTkyZiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDMwNDY4NSwiZXhwIjoxNjY2ODk2Njg1fQ.YCm0YBv6nqZhcjRMmd6mSSt2UA0N0UAXOiVAj6scwTc',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '7cb52610-70bb-469e-acf1-32884ba08e28',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/v1/number/all?limit=10&page=0&status=active',
+        query: { limit: '10', page: '0', status: 'active' }
+      },
+      res: { statusCode: 200 },
+      responseTime: 344
+    }
+  }
+}
+{
+  message: 'GET: \x1B[32m200\x1B[39m 346ms /v1/number/all?limit=10&page=1&status=active',
+  level: 'info',
+  timestamp: '2022-09-27T18:55:40.910Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/number/all?limit=10&page=1&status=active',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAzY2ZiMzVkLTQ4ZTAtNGY1Ni1hNzAyLTJhMjhiOTE1ZTkyZiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDMwNDY4NSwiZXhwIjoxNjY2ODk2Njg1fQ.YCm0YBv6nqZhcjRMmd6mSSt2UA0N0UAXOiVAj6scwTc',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '233aacad-46e3-4544-8dd4-a3d4992b19c8',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/v1/number/all?limit=10&page=1&status=active',
+        query: { limit: '10', page: '1', status: 'active' }
+      },
+      res: { statusCode: 200 },
+      responseTime: 346
+    }
+  }
+}
+{
+  message: 'GET: \x1B[32m200\x1B[39m 346ms /v1/number/all?limit=10&page=0&status=active',
+  level: 'info',
+  timestamp: '2022-09-27T18:55:44.671Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/number/all?limit=10&page=0&status=active',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAzY2ZiMzVkLTQ4ZTAtNGY1Ni1hNzAyLTJhMjhiOTE1ZTkyZiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDMwNDY4NSwiZXhwIjoxNjY2ODk2Njg1fQ.YCm0YBv6nqZhcjRMmd6mSSt2UA0N0UAXOiVAj6scwTc',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '5d6920e6-c294-43d8-9f38-34e274b4b595',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/v1/number/all?limit=10&page=0&status=active',
+        query: { limit: '10', page: '0', status: 'active' }
+      },
+      res: { statusCode: 200 },
+      responseTime: 346
+    }
+  }
+}
+{
+  message: 'PATCH: \x1B[31m500\x1B[39m 182ms /v1/number/59484836-ef76-4069-bc9f-1c63520877c6',
+  level: 'info',
+  timestamp: '2022-09-27T18:57:22.712Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/number/59484836-ef76-4069-bc9f-1c63520877c6',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAzY2ZiMzVkLTQ4ZTAtNGY1Ni1hNzAyLTJhMjhiOTE1ZTkyZiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDMwNDY4NSwiZXhwIjoxNjY2ODk2Njg1fQ.YCm0YBv6nqZhcjRMmd6mSSt2UA0N0UAXOiVAj6scwTc',
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '5ba683eb-c21e-40e3-a4d9-096ab03f4344',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '25'
+        },
+        method: 'PATCH',
+        httpVersion: '1.1',
+        originalUrl: '/v1/number/59484836-ef76-4069-bc9f-1c63520877c6',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 182
+    }
+  }
+}
+{
+  message: 'PATCH: \x1B[31m500\x1B[39m 173ms /v1/number/59484836-ef76-4069-bc9f-1c63520877c6',
+  level: 'info',
+  timestamp: '2022-09-27T18:58:00.143Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/number/59484836-ef76-4069-bc9f-1c63520877c6',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAzY2ZiMzVkLTQ4ZTAtNGY1Ni1hNzAyLTJhMjhiOTE1ZTkyZiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDMwNDY4NSwiZXhwIjoxNjY2ODk2Njg1fQ.YCm0YBv6nqZhcjRMmd6mSSt2UA0N0UAXOiVAj6scwTc',
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': 'f02936f2-c659-4b97-88f1-ca0b970b21ce',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '27'
+        },
+        method: 'PATCH',
+        httpVersion: '1.1',
+        originalUrl: '/v1/number/59484836-ef76-4069-bc9f-1c63520877c6',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 173
+    }
+  }
+}
+{
+  message: 'PATCH: \x1B[32m200\x1B[39m 374ms /v1/number/59484836-ef76-4069-bc9f-1c63520877c6',
+  level: 'info',
+  timestamp: '2022-09-27T18:59:50.581Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/number/59484836-ef76-4069-bc9f-1c63520877c6',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAzY2ZiMzVkLTQ4ZTAtNGY1Ni1hNzAyLTJhMjhiOTE1ZTkyZiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDMwNDY4NSwiZXhwIjoxNjY2ODk2Njg1fQ.YCm0YBv6nqZhcjRMmd6mSSt2UA0N0UAXOiVAj6scwTc',
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '276fe0c7-ce3e-4353-b704-b8a1bc3ab4b2',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '25'
+        },
+        method: 'PATCH',
+        httpVersion: '1.1',
+        originalUrl: '/v1/number/59484836-ef76-4069-bc9f-1c63520877c6',
+        query: {}
+      },
+      res: { statusCode: 200 },
+      responseTime: 374
+    }
+  }
+}
+{
+  message: 'GET: \x1B[32m200\x1B[39m 345ms /v1/number/all?limit=10&page=0&status=active',
+  level: 'info',
+  timestamp: '2022-09-27T18:59:57.299Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/number/all?limit=10&page=0&status=active',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAzY2ZiMzVkLTQ4ZTAtNGY1Ni1hNzAyLTJhMjhiOTE1ZTkyZiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDMwNDY4NSwiZXhwIjoxNjY2ODk2Njg1fQ.YCm0YBv6nqZhcjRMmd6mSSt2UA0N0UAXOiVAj6scwTc',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '961875f6-0b65-4ba9-9d2b-d63f767b173b',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/v1/number/all?limit=10&page=0&status=active',
+        query: { limit: '10', page: '0', status: 'active' }
+      },
+      res: { statusCode: 200 },
+      responseTime: 345
+    }
+  }
+}
+{
+  message: 'DELETE: \x1B[32m200\x1B[39m 393ms /v1/number/59484836-ef76-4069-bc9f-1c63520877c6',
+  level: 'info',
+  timestamp: '2022-09-27T19:02:10.390Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/number/59484836-ef76-4069-bc9f-1c63520877c6',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAzY2ZiMzVkLTQ4ZTAtNGY1Ni1hNzAyLTJhMjhiOTE1ZTkyZiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDMwNDY4NSwiZXhwIjoxNjY2ODk2Njg1fQ.YCm0YBv6nqZhcjRMmd6mSSt2UA0N0UAXOiVAj6scwTc',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '3a01d9a4-d901-4899-8f20-d4d783dc3326',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive'
+        },
+        method: 'DELETE',
+        httpVersion: '1.1',
+        originalUrl: '/v1/number/59484836-ef76-4069-bc9f-1c63520877c6',
+        query: {}
+      },
+      res: { statusCode: 200 },
+      responseTime: 393
+    }
+  }
+}
+{
+  message: 'POST: \x1B[32m201\x1B[39m 373ms /v1/number/create',
+  level: 'info',
+  timestamp: '2022-09-27T19:02:25.146Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/number/create',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAzY2ZiMzVkLTQ4ZTAtNGY1Ni1hNzAyLTJhMjhiOTE1ZTkyZiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDMwNDY4NSwiZXhwIjoxNjY2ODk2Njg1fQ.YCm0YBv6nqZhcjRMmd6mSSt2UA0N0UAXOiVAj6scwTc',
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': 'deca9661-d1d6-423b-b626-3a103216acee',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '107'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/v1/number/create',
+        query: {}
+      },
+      res: { statusCode: 201 },
+      responseTime: 373
+    }
+  }
+}
+{
+  message: 'POST: \x1B[32m201\x1B[39m 358ms /v1/number/create',
+  level: 'info',
+  timestamp: '2022-09-27T19:02:41.945Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/number/create',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAzY2ZiMzVkLTQ4ZTAtNGY1Ni1hNzAyLTJhMjhiOTE1ZTkyZiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDMwNDY4NSwiZXhwIjoxNjY2ODk2Njg1fQ.YCm0YBv6nqZhcjRMmd6mSSt2UA0N0UAXOiVAj6scwTc',
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '8a7a9f81-8a34-4b1a-8d99-2a0e8b9b67f2',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '107'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/v1/number/create',
+        query: {}
+      },
+      res: { statusCode: 201 },
+      responseTime: 358
+    }
+  }
+}
+{
+  message: 'POST: \x1B[31m500\x1B[39m 374ms /v1/number/create',
+  level: 'info',
+  timestamp: '2022-09-27T19:03:37.204Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/number/create',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAzY2ZiMzVkLTQ4ZTAtNGY1Ni1hNzAyLTJhMjhiOTE1ZTkyZiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDMwNDY4NSwiZXhwIjoxNjY2ODk2Njg1fQ.YCm0YBv6nqZhcjRMmd6mSSt2UA0N0UAXOiVAj6scwTc',
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': 'f02075e6-6e2b-44ca-80a3-2e806986b2e2',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '107'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/v1/number/create',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 374
+    }
+  }
+}
+{
+  message: 'POST: \x1B[32m201\x1B[39m 358ms /v1/number/create',
+  level: 'info',
+  timestamp: '2022-09-27T19:04:00.685Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/number/create',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAzY2ZiMzVkLTQ4ZTAtNGY1Ni1hNzAyLTJhMjhiOTE1ZTkyZiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDMwNDY4NSwiZXhwIjoxNjY2ODk2Njg1fQ.YCm0YBv6nqZhcjRMmd6mSSt2UA0N0UAXOiVAj6scwTc',
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': 'c6d95681-3540-4138-8a23-5b8800492dd2',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '107'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/v1/number/create',
+        query: {}
+      },
+      res: { statusCode: 201 },
+      responseTime: 358
+    }
+  }
+}
+{
+  message: 'POST: \x1B[32m201\x1B[39m 400ms /v1/number/create',
+  level: 'info',
+  timestamp: '2022-09-27T19:04:21.746Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/number/create',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAzY2ZiMzVkLTQ4ZTAtNGY1Ni1hNzAyLTJhMjhiOTE1ZTkyZiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDMwNDY4NSwiZXhwIjoxNjY2ODk2Njg1fQ.YCm0YBv6nqZhcjRMmd6mSSt2UA0N0UAXOiVAj6scwTc',
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '76fb9728-5c06-4e2d-9511-38054dbd9673',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '107'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/v1/number/create',
+        query: {}
+      },
+      res: { statusCode: 201 },
+      responseTime: 400
+    }
+  }
+}
+{
+  message: 'GET: \x1B[32m200\x1B[39m 358ms /v1/number/all?limit=10&page=0&status=active',
+  level: 'info',
+  timestamp: '2022-09-27T19:04:25.589Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/number/all?limit=10&page=0&status=active',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAzY2ZiMzVkLTQ4ZTAtNGY1Ni1hNzAyLTJhMjhiOTE1ZTkyZiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDMwNDY4NSwiZXhwIjoxNjY2ODk2Njg1fQ.YCm0YBv6nqZhcjRMmd6mSSt2UA0N0UAXOiVAj6scwTc',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': 'ab0ded78-46d3-49b3-8da4-1d7daf054c36',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/v1/number/all?limit=10&page=0&status=active',
+        query: { limit: '10', page: '0', status: 'active' }
+      },
+      res: { statusCode: 200 },
+      responseTime: 358
+    }
+  }
+}
+{
+  message: 'POST: \x1B[32m201\x1B[39m 349ms /v1/number/create',
+  level: 'info',
+  timestamp: '2022-09-27T19:04:53.677Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/number/create',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAzY2ZiMzVkLTQ4ZTAtNGY1Ni1hNzAyLTJhMjhiOTE1ZTkyZiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDMwNDY4NSwiZXhwIjoxNjY2ODk2Njg1fQ.YCm0YBv6nqZhcjRMmd6mSSt2UA0N0UAXOiVAj6scwTc',
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '61d6b34f-77bb-4544-a14e-868c564ce49f',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '107'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/v1/number/create',
+        query: {}
+      },
+      res: { statusCode: 201 },
+      responseTime: 349
+    }
+  }
+}
+{
+  message: 'GET: \x1B[31m500\x1B[39m 370ms /v1/number/all?limit=10&page=0&status=active',
+  level: 'info',
+  timestamp: '2022-09-27T19:12:02.406Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/number/all?limit=10&page=0&status=active',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAzY2ZiMzVkLTQ4ZTAtNGY1Ni1hNzAyLTJhMjhiOTE1ZTkyZiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDMwNDY4NSwiZXhwIjoxNjY2ODk2Njg1fQ.YCm0YBv6nqZhcjRMmd6mSSt2UA0N0UAXOiVAj6scwTc',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '18f5b1ef-7572-408a-b8fd-9aab3c1323e7',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/v1/number/all?limit=10&page=0&status=active',
+        query: { limit: '10', page: '0', status: 'active' }
+      },
+      res: { statusCode: 500 },
+      responseTime: 370
+    }
+  }
+}
+{
+  message: 'GET: \x1B[31m500\x1B[39m 360ms /v1/number/all?limit=10&page=0&status=active',
+  level: 'info',
+  timestamp: '2022-09-27T19:12:39.897Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/number/all?limit=10&page=0&status=active',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAzY2ZiMzVkLTQ4ZTAtNGY1Ni1hNzAyLTJhMjhiOTE1ZTkyZiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDMwNDY4NSwiZXhwIjoxNjY2ODk2Njg1fQ.YCm0YBv6nqZhcjRMmd6mSSt2UA0N0UAXOiVAj6scwTc',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '9bc61b9e-042a-447d-bf9a-1ae8efcc3861',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/v1/number/all?limit=10&page=0&status=active',
+        query: { limit: '10', page: '0', status: 'active' }
+      },
+      res: { statusCode: 500 },
+      responseTime: 360
+    }
+  }
+}
+{
+  message: 'GET: \x1B[31m500\x1B[39m 395ms /v1/number/all?limit=10&page=0&status=active',
+  level: 'info',
+  timestamp: '2022-09-27T19:14:44.038Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/number/all?limit=10&page=0&status=active',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAzY2ZiMzVkLTQ4ZTAtNGY1Ni1hNzAyLTJhMjhiOTE1ZTkyZiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDMwNDY4NSwiZXhwIjoxNjY2ODk2Njg1fQ.YCm0YBv6nqZhcjRMmd6mSSt2UA0N0UAXOiVAj6scwTc',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': 'a674fea7-2749-46e0-bf75-455500cee75f',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/v1/number/all?limit=10&page=0&status=active',
+        query: { limit: '10', page: '0', status: 'active' }
+      },
+      res: { statusCode: 500 },
+      responseTime: 395
+    }
+  }
+}
+{
+  message: 'GET: \x1B[32m200\x1B[39m 374ms /v1/number/all?limit=10&page=0&status=active',
+  level: 'info',
+  timestamp: '2022-09-27T19:17:04.454Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/number/all?limit=10&page=0&status=active',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAzY2ZiMzVkLTQ4ZTAtNGY1Ni1hNzAyLTJhMjhiOTE1ZTkyZiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDMwNDY4NSwiZXhwIjoxNjY2ODk2Njg1fQ.YCm0YBv6nqZhcjRMmd6mSSt2UA0N0UAXOiVAj6scwTc',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '413003b4-62bf-4d75-bf3f-784883d8c948',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/v1/number/all?limit=10&page=0&status=active',
+        query: { limit: '10', page: '0', status: 'active' }
+      },
+      res: { statusCode: 200 },
+      responseTime: 374
+    }
+  }
+}
+{
+  message: 'GET: \x1B[32m200\x1B[39m 359ms /v1/number/all?limit=10&page=0&status=active',
+  level: 'info',
+  timestamp: '2022-09-27T19:17:25.376Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/number/all?limit=10&page=0&status=active',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAzY2ZiMzVkLTQ4ZTAtNGY1Ni1hNzAyLTJhMjhiOTE1ZTkyZiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDMwNDY4NSwiZXhwIjoxNjY2ODk2Njg1fQ.YCm0YBv6nqZhcjRMmd6mSSt2UA0N0UAXOiVAj6scwTc',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '6d4359ea-6b40-4f91-a369-a756b8c96ac8',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/v1/number/all?limit=10&page=0&status=active',
+        query: { limit: '10', page: '0', status: 'active' }
+      },
+      res: { statusCode: 200 },
+      responseTime: 359
+    }
+  }
+}
+{
+  message: 'GET: \x1B[32m200\x1B[39m 361ms /v1/number/all?limit=10&page=0&status=active',
+  level: 'info',
+  timestamp: '2022-09-27T19:17:55.080Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/number/all?limit=10&page=0&status=active',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAzY2ZiMzVkLTQ4ZTAtNGY1Ni1hNzAyLTJhMjhiOTE1ZTkyZiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDMwNDY4NSwiZXhwIjoxNjY2ODk2Njg1fQ.YCm0YBv6nqZhcjRMmd6mSSt2UA0N0UAXOiVAj6scwTc',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '791b2de2-6297-4f29-a724-6b498610274b',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/v1/number/all?limit=10&page=0&status=active',
+        query: { limit: '10', page: '0', status: 'active' }
+      },
+      res: { statusCode: 200 },
+      responseTime: 361
+    }
+  }
+}
+{
+  message: 'GET: \x1B[31m500\x1B[39m 369ms /v1/number/all?limit=10&page=0&status=active',
+  level: 'info',
+  timestamp: '2022-09-27T19:24:51.286Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/number/all?limit=10&page=0&status=active',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAzY2ZiMzVkLTQ4ZTAtNGY1Ni1hNzAyLTJhMjhiOTE1ZTkyZiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDMwNDY4NSwiZXhwIjoxNjY2ODk2Njg1fQ.YCm0YBv6nqZhcjRMmd6mSSt2UA0N0UAXOiVAj6scwTc',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '0ccd7ded-adf3-44c9-b9cf-7ea2e2db2d97',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/v1/number/all?limit=10&page=0&status=active',
+        query: { limit: '10', page: '0', status: 'active' }
+      },
+      res: { statusCode: 500 },
+      responseTime: 369
+    }
+  }
+}
+{
+  message: 'GET: \x1B[31m500\x1B[39m 365ms /v1/number/all?limit=10&page=0&status=active',
+  level: 'info',
+  timestamp: '2022-09-27T19:25:24.081Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/number/all?limit=10&page=0&status=active',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAzY2ZiMzVkLTQ4ZTAtNGY1Ni1hNzAyLTJhMjhiOTE1ZTkyZiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDMwNDY4NSwiZXhwIjoxNjY2ODk2Njg1fQ.YCm0YBv6nqZhcjRMmd6mSSt2UA0N0UAXOiVAj6scwTc',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': 'bbe3ab24-60d6-4031-bf74-558a8dbf7864',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/v1/number/all?limit=10&page=0&status=active',
+        query: { limit: '10', page: '0', status: 'active' }
+      },
+      res: { statusCode: 500 },
+      responseTime: 365
+    }
+  }
+}
+{
+  message: 'GET: \x1B[32m200\x1B[39m 359ms /v1/number/all?limit=10&page=0&status=active&search=60',
+  level: 'info',
+  timestamp: '2022-09-27T19:25:39.927Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/number/all?limit=10&page=0&status=active&search=60',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAzY2ZiMzVkLTQ4ZTAtNGY1Ni1hNzAyLTJhMjhiOTE1ZTkyZiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDMwNDY4NSwiZXhwIjoxNjY2ODk2Njg1fQ.YCm0YBv6nqZhcjRMmd6mSSt2UA0N0UAXOiVAj6scwTc',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': 'b37a41dc-71bb-48a7-a852-1ec6dfd60d62',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/v1/number/all?limit=10&page=0&status=active&search=60',
+        query: { limit: '10', page: '0', status: 'active', search: '60' }
+      },
+      res: { statusCode: 200 },
+      responseTime: 359
+    }
+  }
+}
+{
+  message: 'GET: \x1B[32m200\x1B[39m 389ms /v1/number/all?limit=10&page=0&status=active&search=60',
+  level: 'info',
+  timestamp: '2022-09-27T19:27:22.238Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/number/all?limit=10&page=0&status=active&search=60',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAzY2ZiMzVkLTQ4ZTAtNGY1Ni1hNzAyLTJhMjhiOTE1ZTkyZiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDMwNDY4NSwiZXhwIjoxNjY2ODk2Njg1fQ.YCm0YBv6nqZhcjRMmd6mSSt2UA0N0UAXOiVAj6scwTc',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '1013c6c7-b4fd-47f8-9320-b9f7e11c2a2b',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/v1/number/all?limit=10&page=0&status=active&search=60',
+        query: { limit: '10', page: '0', status: 'active', search: '60' }
+      },
+      res: { statusCode: 200 },
+      responseTime: 389
+    }
+  }
+}
+{
+  message: 'GET: \x1B[32m200\x1B[39m 344ms /v1/number/all?limit=10&page=0&status=active&search=6020',
+  level: 'info',
+  timestamp: '2022-09-27T19:27:29.738Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/number/all?limit=10&page=0&status=active&search=6020',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAzY2ZiMzVkLTQ4ZTAtNGY1Ni1hNzAyLTJhMjhiOTE1ZTkyZiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDMwNDY4NSwiZXhwIjoxNjY2ODk2Njg1fQ.YCm0YBv6nqZhcjRMmd6mSSt2UA0N0UAXOiVAj6scwTc',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '382ec781-5853-472d-b6a7-250ab5960643',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/v1/number/all?limit=10&page=0&status=active&search=6020',
+        query: { limit: '10', page: '0', status: 'active', search: '6020' }
+      },
+      res: { statusCode: 200 },
+      responseTime: 344
+    }
+  }
+}
+{
+  message: 'GET: \x1B[32m200\x1B[39m 346ms /v1/number/all?limit=10&page=0&status=active&search=6010',
+  level: 'info',
+  timestamp: '2022-09-27T19:27:36.624Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/number/all?limit=10&page=0&status=active&search=6010',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAzY2ZiMzVkLTQ4ZTAtNGY1Ni1hNzAyLTJhMjhiOTE1ZTkyZiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDMwNDY4NSwiZXhwIjoxNjY2ODk2Njg1fQ.YCm0YBv6nqZhcjRMmd6mSSt2UA0N0UAXOiVAj6scwTc',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': 'be229397-39d3-4809-a73a-f9ca6508f3a4',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/v1/number/all?limit=10&page=0&status=active&search=6010',
+        query: { limit: '10', page: '0', status: 'active', search: '6010' }
+      },
+      res: { statusCode: 200 },
+      responseTime: 346
+    }
+  }
+}
+{
+  message: 'GET: \x1B[32m200\x1B[39m 343ms /v1/number/all?limit=10&page=0&status=active',
+  level: 'info',
+  timestamp: '2022-09-27T19:27:43.422Z',
+  label: 'belline',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/number/all?limit=10&page=0&status=active',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAzY2ZiMzVkLTQ4ZTAtNGY1Ni1hNzAyLTJhMjhiOTE1ZTkyZiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY2NDMwNDY4NSwiZXhwIjoxNjY2ODk2Njg1fQ.YCm0YBv6nqZhcjRMmd6mSSt2UA0N0UAXOiVAj6scwTc',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': 'b33af618-8296-4999-b23a-661ddf94c39e',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/v1/number/all?limit=10&page=0&status=active',
+        query: { limit: '10', page: '0', status: 'active' }
+      },
+      res: { statusCode: 200 },
+      responseTime: 343
+    }
+  }
+}
