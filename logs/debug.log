@@ -579,3 +579,1256 @@
   label: 'belline',
   metadata: {}
 }
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-28T04:20:58.911Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2022-09-28T04:20:58.925Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2022-09-28T04:20:58.927Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-28T04:21:00.936Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-28T04:41:02.856Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.create: finished with error: ValidationError: role: Path `role` is required.',
+  level: 'error',
+  timestamp: '2022-09-28T04:41:02.877Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-28T04:41:04.880Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.get failed to findOne',
+  level: 'warn',
+  timestamp: '2022-09-28T04:41:05.660Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.findOne: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:41:05.662Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.get failed to findOne',
+  level: 'warn',
+  timestamp: '2022-09-28T04:41:05.843Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.findOne: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:41:05.844Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.update failed to findByIdAndUpdate',
+  level: 'warn',
+  timestamp: '2022-09-28T04:41:06.022Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.update: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:41:06.023Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.update failed to findByIdAndUpdate',
+  level: 'warn',
+  timestamp: '2022-09-28T04:41:06.201Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.update: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:41:06.202Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete failed to findByIdAndDelete',
+  level: 'warn',
+  timestamp: '2022-09-28T04:41:06.377Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:41:06.378Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete failed to findByIdAndDelete',
+  level: 'warn',
+  timestamp: '2022-09-28T04:41:06.549Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:41:06.550Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-28T04:47:46.818Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.create: finished with error: ValidationError: role: Path `role` is required.',
+  level: 'error',
+  timestamp: '2022-09-28T04:47:46.856Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-28T04:47:48.926Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.get failed to findOne',
+  level: 'warn',
+  timestamp: '2022-09-28T04:47:49.682Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.findOne: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:47:49.684Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.get failed to findOne',
+  level: 'warn',
+  timestamp: '2022-09-28T04:47:49.877Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.findOne: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:47:49.878Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.update failed to findByIdAndUpdate',
+  level: 'warn',
+  timestamp: '2022-09-28T04:47:50.063Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.update: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:47:50.064Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.update failed to findByIdAndUpdate',
+  level: 'warn',
+  timestamp: '2022-09-28T04:47:50.244Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.update: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:47:50.245Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete failed to findByIdAndDelete',
+  level: 'warn',
+  timestamp: '2022-09-28T04:47:50.423Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:47:50.425Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete failed to findByIdAndDelete',
+  level: 'warn',
+  timestamp: '2022-09-28T04:47:50.599Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:47:50.600Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-28T04:47:51.999Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-28T04:47:53.682Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.create: finished with error: MongoError: E11000 duplicate key error collection: test.numbers index: value_1 dup key: { value: "+998919032818" }',
+  level: 'error',
+  timestamp: '2022-09-28T04:47:54.076Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.get failed to findOne',
+  level: 'warn',
+  timestamp: '2022-09-28T04:47:54.262Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.findOne: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:47:54.264Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.get failed to findOne',
+  level: 'warn',
+  timestamp: '2022-09-28T04:47:54.446Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.findOne: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:47:54.447Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.update failed to findByIdAndUpdate',
+  level: 'warn',
+  timestamp: '2022-09-28T04:47:54.625Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.update: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:47:54.626Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.update failed to findByIdAndUpdate',
+  level: 'warn',
+  timestamp: '2022-09-28T04:47:54.797Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.update: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:47:54.799Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.delete failed to findByIdAndDelete',
+  level: 'warn',
+  timestamp: '2022-09-28T04:47:54.975Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.delete: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:47:54.976Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.delete failed to findByIdAndDelete',
+  level: 'warn',
+  timestamp: '2022-09-28T04:47:55.151Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.delete: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:47:55.152Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-28T04:51:00.589Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.create: finished with error: ValidationError: role: Path `role` is required.',
+  level: 'error',
+  timestamp: '2022-09-28T04:51:00.616Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-28T04:51:00.835Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-28T04:51:02.595Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-28T04:51:02.645Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.create: finished with error: MongoError: E11000 duplicate key error collection: test.numbers index: value_1 dup key: { value: "+998919032818" }',
+  level: 'error',
+  timestamp: '2022-09-28T04:51:03.034Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.get failed to findOne',
+  level: 'warn',
+  timestamp: '2022-09-28T04:51:03.220Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.findOne: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:51:03.221Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.get failed to findOne',
+  level: 'warn',
+  timestamp: '2022-09-28T04:51:03.339Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.findOne: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:51:03.342Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.update failed to findByIdAndUpdate',
+  level: 'warn',
+  timestamp: '2022-09-28T04:51:03.403Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.update: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:51:03.403Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.get failed to findOne',
+  level: 'warn',
+  timestamp: '2022-09-28T04:51:03.534Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.findOne: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:51:03.535Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.delete failed to findByIdAndDelete',
+  level: 'warn',
+  timestamp: '2022-09-28T04:51:03.579Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.delete: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:51:03.580Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.update failed to findByIdAndUpdate',
+  level: 'warn',
+  timestamp: '2022-09-28T04:51:03.713Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.update: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:51:03.713Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.update failed to findByIdAndUpdate',
+  level: 'warn',
+  timestamp: '2022-09-28T04:51:03.894Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.update: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:51:03.895Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete failed to findByIdAndDelete',
+  level: 'warn',
+  timestamp: '2022-09-28T04:51:04.069Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:51:04.070Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete failed to findByIdAndDelete',
+  level: 'warn',
+  timestamp: '2022-09-28T04:51:04.253Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:51:04.254Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-28T04:51:45.539Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.create: finished with error: ValidationError: role: Path `role` is required.',
+  level: 'error',
+  timestamp: '2022-09-28T04:51:45.559Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-28T04:51:47.232Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.get failed to findOne',
+  level: 'warn',
+  timestamp: '2022-09-28T04:51:47.951Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.findOne: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:51:47.952Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.get failed to findOne',
+  level: 'warn',
+  timestamp: '2022-09-28T04:51:48.130Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.findOne: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:51:48.131Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.update failed to findByIdAndUpdate',
+  level: 'warn',
+  timestamp: '2022-09-28T04:51:48.307Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.update: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:51:48.308Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.update failed to findByIdAndUpdate',
+  level: 'warn',
+  timestamp: '2022-09-28T04:51:48.484Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.update: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:51:48.485Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete failed to findByIdAndDelete',
+  level: 'warn',
+  timestamp: '2022-09-28T04:51:48.663Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:51:48.663Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete failed to findByIdAndDelete',
+  level: 'warn',
+  timestamp: '2022-09-28T04:51:48.833Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:51:48.834Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-28T04:53:31.875Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.create: finished with error: ValidationError: role: Path `role` is required.',
+  level: 'error',
+  timestamp: '2022-09-28T04:53:31.913Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-28T04:53:33.929Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete failed to findByIdAndDelete',
+  level: 'warn',
+  timestamp: '2022-09-28T04:53:34.282Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:53:34.283Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-28T04:54:27.302Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.create: finished with error: ValidationError: role: Path `role` is required.',
+  level: 'error',
+  timestamp: '2022-09-28T04:54:27.323Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-28T04:58:35.296Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.create: finished with error: ValidationError: role: Path `role` is required.',
+  level: 'error',
+  timestamp: '2022-09-28T04:58:35.318Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-28T05:00:46.857Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-28T05:00:48.941Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.create: finished with error: MongoError: E11000 duplicate key error collection: test.admins index: login_1 dup key: { login: "test2" }',
+  level: 'error',
+  timestamp: '2022-09-28T05:00:49.317Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-28T05:11:19.079Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-28T05:11:22.168Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-28T05:17:16.895Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-28T05:17:18.929Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.create: finished with error: MongoError: E11000 duplicate key error collection: test.admins index: _id_ dup key: { _id: "cd4f1b46-f9ea-4628-a91d-fb414f02a66e" }',
+  level: 'error',
+  timestamp: '2022-09-28T05:17:19.310Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-28T05:20:37.641Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-28T05:20:39.790Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.create: finished with error: MongoError: E11000 duplicate key error collection: test.admins index: _id_ dup key: { _id: "cd4f1b46-f9ea-4628-a91d-fb414f02a66e" }',
+  level: 'error',
+  timestamp: '2022-09-28T05:20:40.174Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-28T05:31:23.812Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-28T05:31:25.984Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-28T05:33:34.070Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-28T05:33:36.121Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-28T05:36:41.802Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-28T05:36:43.819Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-28T05:38:18.099Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-28T05:38:20.234Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-28T05:38:59.907Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-28T05:39:01.612Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.get failed to findOne',
+  level: 'warn',
+  timestamp: '2022-09-28T05:39:02.804Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.findOne: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:39:02.804Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.update failed to findByIdAndUpdate',
+  level: 'warn',
+  timestamp: '2022-09-28T05:39:03.160Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.update: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:39:03.161Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete failed to findByIdAndDelete',
+  level: 'warn',
+  timestamp: '2022-09-28T05:39:03.507Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:39:03.507Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-28T05:40:06.501Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-28T05:40:08.639Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-28T05:40:09.563Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.get failed to findOne',
+  level: 'warn',
+  timestamp: '2022-09-28T05:40:09.729Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.findOne: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:40:09.729Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.update failed to findByIdAndUpdate',
+  level: 'warn',
+  timestamp: '2022-09-28T05:40:10.091Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.update: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:40:10.093Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete failed to findByIdAndDelete',
+  level: 'warn',
+  timestamp: '2022-09-28T05:40:10.447Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:40:10.449Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-28T05:40:11.302Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.create: finished with error: MongoError: E11000 duplicate key error collection: test.numbers index: value_1 dup key: { value: "+998919032818" }',
+  level: 'error',
+  timestamp: '2022-09-28T05:40:11.689Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.get failed to findOne',
+  level: 'warn',
+  timestamp: '2022-09-28T05:40:11.884Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.findOne: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:40:11.888Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.get failed to findOne',
+  level: 'warn',
+  timestamp: '2022-09-28T05:40:12.075Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.findOne: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:40:12.076Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.update failed to findByIdAndUpdate',
+  level: 'warn',
+  timestamp: '2022-09-28T05:40:12.258Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.update: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:40:12.262Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.update failed to findByIdAndUpdate',
+  level: 'warn',
+  timestamp: '2022-09-28T05:40:12.439Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.update: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:40:12.440Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.delete failed to findByIdAndDelete',
+  level: 'warn',
+  timestamp: '2022-09-28T05:40:12.615Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.delete: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:40:12.618Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.delete failed to findByIdAndDelete',
+  level: 'warn',
+  timestamp: '2022-09-28T05:40:12.800Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.delete: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:40:12.800Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-28T05:42:31.941Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-28T05:42:32.205Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-28T05:42:34.014Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-28T05:42:34.024Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.get failed to findOne',
+  level: 'warn',
+  timestamp: '2022-09-28T05:42:34.790Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.findOne: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:42:34.790Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.get failed to findOne',
+  level: 'warn',
+  timestamp: '2022-09-28T05:42:35.135Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.findOne: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:42:35.136Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.update failed to findByIdAndUpdate',
+  level: 'warn',
+  timestamp: '2022-09-28T05:42:35.149Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.update: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:42:35.150Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.update failed to findByIdAndUpdate',
+  level: 'warn',
+  timestamp: '2022-09-28T05:42:35.499Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.update: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:42:35.499Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.delete failed to findByIdAndDelete',
+  level: 'warn',
+  timestamp: '2022-09-28T05:42:35.505Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.delete: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:42:35.506Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete failed to findByIdAndDelete',
+  level: 'warn',
+  timestamp: '2022-09-28T05:42:35.869Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:42:35.870Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-28T05:43:13.766Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://bellinev1:200013fev.@belline.g3aintk.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2022-09-28T05:43:13.804Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-28T05:43:15.562Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2022-09-28T05:43:15.589Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.get failed to findOne',
+  level: 'warn',
+  timestamp: '2022-09-28T05:43:16.405Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.findOne: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:43:16.406Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.get failed to findOne',
+  level: 'warn',
+  timestamp: '2022-09-28T05:43:16.674Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.findOne: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:43:16.676Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.update failed to findByIdAndUpdate',
+  level: 'warn',
+  timestamp: '2022-09-28T05:43:16.767Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.update: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:43:16.768Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.update failed to findByIdAndUpdate',
+  level: 'warn',
+  timestamp: '2022-09-28T05:43:17.066Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.update: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:43:17.066Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.delete failed to findByIdAndDelete',
+  level: 'warn',
+  timestamp: '2022-09-28T05:43:17.123Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.delete: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:43:17.124Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete failed to findByIdAndDelete',
+  level: 'warn',
+  timestamp: '2022-09-28T05:43:17.416Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:43:17.417Z',
+  label: 'belline',
+  metadata: {}
+}

@@ -75,3 +75,500 @@
   label: 'belline',
   metadata: {}
 }
+{
+  message: 'storage.admin.create: finished with error: ValidationError: role: Path `role` is required.',
+  level: 'error',
+  timestamp: '2022-09-28T04:41:02.877Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.findOne: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:41:05.662Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.findOne: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:41:05.844Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.update: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:41:06.023Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.update: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:41:06.202Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:41:06.378Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:41:06.550Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.create: finished with error: ValidationError: role: Path `role` is required.',
+  level: 'error',
+  timestamp: '2022-09-28T04:47:46.856Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.findOne: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:47:49.684Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.findOne: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:47:49.878Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.update: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:47:50.064Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.update: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:47:50.245Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:47:50.425Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:47:50.600Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.create: finished with error: MongoError: E11000 duplicate key error collection: test.numbers index: value_1 dup key: { value: "+998919032818" }',
+  level: 'error',
+  timestamp: '2022-09-28T04:47:54.076Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.findOne: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:47:54.264Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.findOne: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:47:54.447Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.update: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:47:54.626Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.update: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:47:54.799Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.delete: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:47:54.976Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.delete: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:47:55.152Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.create: finished with error: ValidationError: role: Path `role` is required.',
+  level: 'error',
+  timestamp: '2022-09-28T04:51:00.616Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.create: finished with error: MongoError: E11000 duplicate key error collection: test.numbers index: value_1 dup key: { value: "+998919032818" }',
+  level: 'error',
+  timestamp: '2022-09-28T04:51:03.034Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.findOne: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:51:03.221Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.findOne: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:51:03.342Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.update: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:51:03.403Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.findOne: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:51:03.535Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.delete: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:51:03.580Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.update: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:51:03.713Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.update: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:51:03.895Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:51:04.070Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:51:04.254Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.create: finished with error: ValidationError: role: Path `role` is required.',
+  level: 'error',
+  timestamp: '2022-09-28T04:51:45.559Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.findOne: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:51:47.952Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.findOne: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:51:48.131Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.update: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:51:48.308Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.update: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:51:48.485Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:51:48.663Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:51:48.834Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.create: finished with error: ValidationError: role: Path `role` is required.',
+  level: 'error',
+  timestamp: '2022-09-28T04:53:31.913Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T04:53:34.283Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.create: finished with error: ValidationError: role: Path `role` is required.',
+  level: 'error',
+  timestamp: '2022-09-28T04:54:27.323Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.create: finished with error: ValidationError: role: Path `role` is required.',
+  level: 'error',
+  timestamp: '2022-09-28T04:58:35.318Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.create: finished with error: MongoError: E11000 duplicate key error collection: test.admins index: login_1 dup key: { login: "test2" }',
+  level: 'error',
+  timestamp: '2022-09-28T05:00:49.317Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.create: finished with error: MongoError: E11000 duplicate key error collection: test.admins index: _id_ dup key: { _id: "cd4f1b46-f9ea-4628-a91d-fb414f02a66e" }',
+  level: 'error',
+  timestamp: '2022-09-28T05:17:19.310Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.create: finished with error: MongoError: E11000 duplicate key error collection: test.admins index: _id_ dup key: { _id: "cd4f1b46-f9ea-4628-a91d-fb414f02a66e" }',
+  level: 'error',
+  timestamp: '2022-09-28T05:20:40.174Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.findOne: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:39:02.804Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.update: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:39:03.161Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:39:03.507Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.findOne: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:40:09.729Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.update: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:40:10.093Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:40:10.449Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.create: finished with error: MongoError: E11000 duplicate key error collection: test.numbers index: value_1 dup key: { value: "+998919032818" }',
+  level: 'error',
+  timestamp: '2022-09-28T05:40:11.689Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.findOne: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:40:11.888Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.findOne: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:40:12.076Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.update: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:40:12.262Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.update: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:40:12.440Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.delete: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:40:12.618Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.delete: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:40:12.800Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.findOne: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:42:34.790Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.findOne: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:42:35.136Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.update: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:42:35.150Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.update: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:42:35.499Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.delete: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:42:35.506Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:42:35.870Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.findOne: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:43:16.406Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.findOne: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:43:16.676Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.update: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:43:16.768Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.update: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:43:17.066Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.number.delete: finished with error: Error: number_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:43:17.124Z',
+  label: 'belline',
+  metadata: {}
+}
+{
+  message: 'storage.admin.delete: finished with error: Error: admin_404',
+  level: 'error',
+  timestamp: '2022-09-28T05:43:17.417Z',
+  label: 'belline',
+  metadata: {}
+}
